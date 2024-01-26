@@ -25,3 +25,4 @@ This project provided hands-on experience in full-stack web development, strengt
 🔗Connect with me to Learn More:
 Keen to discuss the technologies used or explore how this project revolutionizes financial management? Feel free to connect! I am open to sharing insights and exchanging ideas.
 
+![Screenshot (41)](https://github.com/Mj1781/Expense-Tracking-System/assets/108046894/d98d436e-41c3-4d7d-adb8-5507ff015180)
